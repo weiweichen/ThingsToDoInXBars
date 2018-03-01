@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<figure family="allemande" name="right allemande" variant="1.5" beats="8">
+  <dancer start_position="4" end_position="8" facing_position="2" facing_offset="-1">
+   <path>
+     <move select="some movement" />
+   </path>
+  </dancer>
+</figure>
