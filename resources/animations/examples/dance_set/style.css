@@ -1,0 +1,54 @@
+
+
+
+#lark1{
+  width: 50px;
+  height: 50px;
+  // background: #77D7FA;
+  background: #008000;
+  position: absolute;
+  cursor: pointer;
+  top: 45%;
+  left: 45%;
+}
+
+#lark2 {
+  width: 50px;
+  height: 50px;
+  // background: #EE6B47;
+  background: #FFA500;
+  position: absolute;
+  cursor: pointer;
+  top: 55%;
+  left: 45%;
+}
+
+#raven1 {
+  height: 50px;
+  width: 50px;
+  // background-color: #77D7FA;
+  background-color: #008000;
+  border-radius: 50%;
+  display: inline-block;
+  position: absolute;
+  top: 45%;
+  left: 55%;
+}
+
+#raven2 {
+  height: 50px;
+  width: 50px;
+  //background-color: #EE6B47;
+  background-color: #FFA500;
+  border-radius: 50%;
+  display: inline-block;
+  position: absolute;
+  top: 55%;
+  left: 55%;
+}
+
+#path {
+  outline: 1px solid #E8C48E;
+  width: 540px;
+  height: 20px;
+}
